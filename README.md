@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhav
-- 👀 I’m interested in Python Programming || Django || HTML, CSS, Javascript || DSA
-- 🌱 I’m currently working on improving DSA, Python/Django Programming, ReactJs
+- 👀 I’m a Java Developer with working experience in SpringBoot, Angular, Tailwind
+- 🌱 I’m currently working on improving DSA
 - 📫 LinkedIn - https://www.linkedin.com/in/vaibhav-sharma-8535b3200/
 
 <!---
